@@ -10,7 +10,7 @@
 ## 🔧 Tech Stack
 - HTML • CSS • JavaScript  
 - Python  
-- Linux (Ubuntu)  
+- Linux   
 - Git & GitHub  
 
 ---
